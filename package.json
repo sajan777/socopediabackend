@@ -5,8 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "startdev": "nodemon server.js",
-    "start": "node server.js"
+    "startdev": "nodemon index.js",
+    "start": "node index.js"
   },
   "engines": {
     "npm": ">=8.0.0 <9.0.0",
